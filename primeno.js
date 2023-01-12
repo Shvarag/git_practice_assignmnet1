@@ -6,7 +6,7 @@ for(let i=1; i<=num; i++){
     }
     
 }if(flag ==2){
-    console.log("prime")
+    console.log("that is called prime number")
 }else{
-    console.log("not prime")
+    console.log("hey this is not a prime no or you can say more then 2 factors number.")
 }
